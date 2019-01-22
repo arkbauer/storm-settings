@@ -1,0 +1,19 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="KEYMAP" value="format" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="sync" />
+    <property name="TrendingPluginsSearchHistory" value="symfony" />
+    <property name="evlsprt3.183" value="13" />
+    <property name="file.gist.reindex.count" value="41684" />
+    <property name="lastTip" value="1" />
+    <property name="settings.code.style.selected.tab.PHP" value="Wrapping and Braces" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
