@@ -14,8 +14,8 @@
     <mask>*.hphp</mask>
     <mask>*.ctp</mask>
     <mask>composer.json</mask>
-    <mask>*.php</mask>
     <mask>*.de.*</mask>
     <mask>*.vue</mask>
+    <mask>*.php</mask>
   </component>
 </application>
