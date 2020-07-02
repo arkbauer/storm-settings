@@ -8,9 +8,9 @@
       <mapping pattern="sess_4f1f458204f52a7f125a0c3b2befb8b9" type="PLAIN_TEXT" />
       <mapping pattern="sess_14b98649c5d7afc8837ab9c2931e5553" type="PLAIN_TEXT" />
       <mapping ext="blade" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Makefile" approved="true" type="PLAIN_TEXT" />
