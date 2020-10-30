@@ -18,7 +18,7 @@
     <mask>*.yaml</mask>
     <mask>*.yml</mask>
     <mask>*.vue</mask>
-    <mask>*.php</mask>
     <mask>*.json</mask>
+    <mask>*.php</mask>
   </component>
 </application>
