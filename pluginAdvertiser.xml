@@ -393,6 +393,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.glstex">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="nl.rubensten.texifyidea" />
+              <option name="myPluginName" value="TeXiFy IDEA" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.gql">
           <value>
             <plugin>
