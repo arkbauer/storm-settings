@@ -21,5 +21,6 @@
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>composer.json</mask>
+    <mask>twig</mask>
   </component>
 </application>
