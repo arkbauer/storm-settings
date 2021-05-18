@@ -8,6 +8,7 @@
       <mapping pattern="sess_4f1f458204f52a7f125a0c3b2befb8b9" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="sess_691ccc644d5787b2478bb3228a1a1ffa" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="blade" type="PLAIN_TEXT" />
       <mapping ext="tf" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
