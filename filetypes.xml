@@ -5,6 +5,7 @@
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="sess_14b98649c5d7afc8837ab9c2931e5553" type="PLAIN_TEXT" />
       <mapping pattern="sess_691ccc644d5787b2478bb3228a1a1ffa" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping pattern=".env.builder.dist" type="PLAIN_TEXT" />
       <mapping pattern="IntegrationSuperclass" type="PLAIN_TEXT" />
       <mapping pattern="sess_4f1f458204f52a7f125a0c3b2befb8b9" type="PLAIN_TEXT" />
