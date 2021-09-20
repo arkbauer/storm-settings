@@ -25,6 +25,7 @@
       <removed_mapping ext="ps1" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern="Makefile" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
