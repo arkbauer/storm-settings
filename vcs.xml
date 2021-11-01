@@ -1,5 +1,5 @@
 <application>
-  <component name="VcsApplicationSettings">
-    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+  <component name="Vcs.Log.App.Settings">
+    <option name="LABELS_LEFT_ALIGNED" value="true" />
   </component>
 </application>
