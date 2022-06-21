@@ -17,5 +17,6 @@
     <mask>*..twig</mask>
     <mask>*.yaml</mask>
     <mask>*.php</mask>
+    <mask>*Type.php</mask>
   </component>
 </application>
