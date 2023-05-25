@@ -5,6 +5,9 @@
     <option name="telemetryEnabled" value="false" />
     <option name="useDefaultCredentialRegion" value="Prompt" />
   </component>
+  <component name="codewhispererAutotriggerStates">
+    <option name="classifierGroup" value="false" />
+  </component>
   <component name="executables">
     <option name="value">
       <list>
