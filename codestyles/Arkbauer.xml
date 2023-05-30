@@ -29,7 +29,7 @@
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
   <VueCodeStyleSettings>
-    <option name="INDENT_CHILDREN_OF_TOP_LEVEL" value="template, script, style" />
+    <option name="INDENT_CHILDREN_OF_TOP_LEVEL" value="template, style" />
   </VueCodeStyleSettings>
   <codeStyleSettings language="Blade">
     <indentOptions>
@@ -101,8 +101,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="Vue">
     <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
