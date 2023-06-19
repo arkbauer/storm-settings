@@ -1,5 +1,7 @@
 <application>
   <component name="Vcs.Log.App.Settings">
+    <option name="LABELS_LEFT_ALIGNED" value="true" />
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
     <option name="COLUMN_ID_ORDER">
       <list>
         <option value="Default.Root" />
@@ -9,7 +11,6 @@
         <option value="Space.CommitStatus" />
       </list>
     </option>
-    <option name="LABELS_LEFT_ALIGNED" value="true" />
   </component>
   <component name="VcsEditorTab.Settings">
     <option name="openInNewWindow" value="true" />
