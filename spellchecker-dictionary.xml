@@ -21,6 +21,7 @@
       <w>fillable</w>
       <w>flaggable</w>
       <w>gedmo</w>
+      <w>hasher</w>
       <w>iftmin</w>
       <w>incoterms</w>
       <w>indexable</w>
@@ -47,6 +48,7 @@
       <w>subcustomer</w>
       <w>subcustomers</w>
       <w>subitems</w>
+      <w>superadmin</w>
       <w>tagsinput</w>
       <w>toggler</w>
       <w>visidarbi</w>
