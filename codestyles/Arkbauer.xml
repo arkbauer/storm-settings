@@ -1,6 +1,7 @@
 <code_scheme name="Arkbauer" version="173">
   <option name="RIGHT_MARGIN" value="180" />
   <HTMLCodeStyleSettings>
+    <option name="HTML_UNIFORM_INDENT" value="true" />
     <option name="HTML_KEEP_BLANK_LINES" value="1" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
@@ -29,7 +30,7 @@
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
   <VueCodeStyleSettings>
-    <option name="INDENT_CHILDREN_OF_TOP_LEVEL" value="template, style" />
+    <option name="INDENT_CHILDREN_OF_TOP_LEVEL" value="template, style, script" />
   </VueCodeStyleSettings>
   <codeStyleSettings language="Blade">
     <indentOptions>
