@@ -3,6 +3,7 @@
     <option name="pluginIds">
       <list>
         <option value="org.jetbrains.plugins.stylus" />
+        <option value="com.intellij.kubernetes" />
       </list>
     </option>
   </component>
