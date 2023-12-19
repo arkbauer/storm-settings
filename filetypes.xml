@@ -4,6 +4,7 @@
       <mapping pattern="update" type="AUTO_DETECTED" />
       <mapping pattern="images-push" type="AUTO_DETECTED" />
       <mapping pattern="images-build" type="AUTO_DETECTED" />
+      <mapping pattern="images-pull" type="AUTO_DETECTED" />
       <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="images-tag" type="AUTO_DETECTED" />
       <mapping pattern="sess_819199dcd956d4c323c0dc474bafa8b6" type="PLAIN_TEXT" />
