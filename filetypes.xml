@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping pattern="update" type="AUTO_DETECTED" />
       <mapping pattern="images-push" type="AUTO_DETECTED" />
