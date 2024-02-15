@@ -16,6 +16,7 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".phpstan.neon" type="PLAIN_TEXT" />
       <mapping pattern="IntegrationSuperclass" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="sess_4f1f458204f52a7f125a0c3b2befb8b9" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
