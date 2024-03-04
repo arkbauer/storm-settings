@@ -15,6 +15,7 @@
     <mask>*.ctp</mask>
     <mask>*.vue</mask>
     <mask>*.ts</mask>
+    <mask>messages.en.*</mask>
     <mask>*.php</mask>
   </component>
 </application>
