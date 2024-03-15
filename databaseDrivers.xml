@@ -11,7 +11,7 @@
       <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
     </driver>
     <driver id="redis">
-      <artifact id="Redis" name="Redis" use="true" version="1.3" />
+      <artifact id="Redis" name="Redis" use="true" version="1.5" />
     </driver>
     <driver id="java.sql.Driver" name="java.sql.Driver" driver-class="java.sql.Driver" />
   </component>
