@@ -15,10 +15,11 @@
     <mask>*.module</mask>
     <mask>*.hphp</mask>
     <mask>*.ctp</mask>
-    <mask>*.vue</mask>
     <mask>*.ts</mask>
     <mask>messages.en.*</mask>
     <mask>*.twig</mask>
+    <mask>*.yml</mask>
+    <mask>*.vue</mask>
     <mask>*.php</mask>
   </component>
 </application>
