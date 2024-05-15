@@ -29,6 +29,7 @@
       <w>fillable</w>
       <w>finfo</w>
       <w>flaggable</w>
+      <w>fulfiller</w>
       <w>gedmo</w>
       <w>hashable</w>
       <w>hasher</w>
