@@ -10,6 +10,7 @@
       <w>changedhours</w>
       <w>choosable</w>
       <w>clientuuid</w>
+      <w>consenter</w>
       <w>consigner</w>
       <w>correos</w>
       <w>crypted</w>
@@ -65,6 +66,7 @@
       <w>poste</w>
       <w>raben</w>
       <w>redetect</w>
+      <w>relevances</w>
       <w>renewer</w>
       <w>requestor</w>
       <w>resaleable</w>

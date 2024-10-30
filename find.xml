@@ -18,6 +18,7 @@
     <mask>*.ts</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
+    <mask>*.twig</mask>
     <mask>*.php</mask>
   </component>
 </application>
