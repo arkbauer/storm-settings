@@ -5,9 +5,11 @@
       <mapping pattern="images-build" type="AUTO_DETECTED" />
       <mapping pattern="images-pull" type="AUTO_DETECTED" />
       <mapping pattern="test" type="AUTO_DETECTED" />
+      <mapping pattern="mysql-to-mariadb-2" type="AUTO_DETECTED" />
       <mapping pattern="load-data" type="AUTO_DETECTED" />
       <mapping pattern="images-tag" type="AUTO_DETECTED" />
       <mapping pattern="update" type="AUTO_DETECTED" />
+      <mapping pattern="mysql-to-mariadb" type="AUTO_DETECTED" />
       <mapping pattern="build-server" type="AUTO_DETECTED" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
