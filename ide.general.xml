@@ -8,6 +8,5 @@
     <entry key="terminal.new.ui" value="true" source="SYSTEM" />
     <entry key="terminal.new.ui.fish" value="true" source="SYSTEM" />
     <entry key="terminal.new.ui.powershell.unix" value="true" source="SYSTEM" />
-    <entry key="completion.cloud.enableTextCompletion" value="false" source="MANAGER" />
   </component>
 </application>
