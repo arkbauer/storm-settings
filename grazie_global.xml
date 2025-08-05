@@ -6,6 +6,8 @@
           <set>
             <option value="Dropshipping" />
             <option value="processed|how many parcels have been processed" />
+            <option value="dummy|handle dummy parcel cases (where clearly there are no parcel references available, and we created dummy parcel for them)" />
+            <option value="clearly|handle dummy parcel cases (where clearly there are no parcel references available, and we created dummy parcel for them)" />
           </set>
         </option>
       </SuppressingContext>
