@@ -11,6 +11,7 @@
       <mapping pattern="update" type="AUTO_DETECTED" />
       <mapping pattern="mysql-to-mariadb" type="AUTO_DETECTED" />
       <mapping pattern="build-server" type="AUTO_DETECTED" />
+      <mapping pattern="mcp.json" type="JSON5" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping pattern=".env.builder.dist" type="PLAIN_TEXT" />
