@@ -34,34 +34,19 @@
       <mapping pattern="backup" type="Shell Script" />
       <mapping pattern="update-from-prod" type="Shell Script" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
-      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
-      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping ext="ng" approved="true" type="HTML" />
       <removed_mapping ext="ng" approved="true" type="HTML" />
       <removed_mapping ext="ps1" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="ps1" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="redis" approved="true" type="Redis" />
       <removed_mapping ext="redis" approved="true" type="Redis" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <removed_mapping ext="tex" approved="true" type="LaTeX file" />
       <removed_mapping ext="tex" approved="true" type="LaTeX file" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
-      <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
-      <removed_mapping pattern=".env" approved="true" type=".env file" />
-      <removed_mapping pattern="Makefile" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Makefile" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
