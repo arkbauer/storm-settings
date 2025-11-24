@@ -6,6 +6,7 @@
         <entry key="*" value="true" />
       </map>
     </languageAllowList>
+    <option name="inlayTextColor" value="#d77100" />
     <option name="selectedCompletionModel" value="gpt-41-copilot" />
     <option name="terminalRulesVersion" value="1" />
   </component>
