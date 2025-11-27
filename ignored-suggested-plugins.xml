@@ -5,6 +5,8 @@
         <option value="org.jetbrains.plugins.stylus" />
         <option value="com.intellij.kubernetes" />
         <option value="com.intellij.aqua" />
+        <option value="intellij.vitejs" />
+        <option value="com.intellij.tailwindcss" />
       </list>
     </option>
   </component>
