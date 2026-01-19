@@ -7,6 +7,7 @@
         <option value="com.intellij.aqua" />
         <option value="intellij.vitejs" />
         <option value="com.intellij.tailwindcss" />
+        <option value="com.intellij.react" />
       </list>
     </option>
   </component>
