@@ -8,6 +8,7 @@
         <option value="intellij.vitejs" />
         <option value="com.intellij.tailwindcss" />
         <option value="com.intellij.react" />
+        <option value="com.jetbrains.php.codeception" />
       </list>
     </option>
   </component>
