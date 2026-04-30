@@ -11,10 +11,11 @@
         <option name="suppressed">
           <set>
             <option value="Dropshipping" />
-            <option value="clearly|handle dummy parcel cases (where clearly there are no parcel references available, and we created dummy parcel for them)" />
-            <option value="dummy|dummy OAuth flow." />
-            <option value="dummy|handle dummy parcel cases (where clearly there are no parcel references available, and we created dummy parcel for them)" />
             <option value="processed|how many parcels have been processed" />
+            <option value="dummy|dummy OAuth flow." />
+            <option value="clearly|handle dummy parcel cases (where clearly there are no parcel references available, and we created dummy parcel for them)" />
+            <option value="dummy|handle dummy parcel cases (where clearly there are no parcel references available, and we created dummy parcel for them)" />
+            <option value="7S|normally we would use warehouse legal name as first name and last name, but 7S need some specific carrier HUB names which we define as warehouse contact person" />
           </set>
         </option>
       </SuppressingContext>
