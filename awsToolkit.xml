@@ -1,4 +1,7 @@
 <application>
+  <component name="cfnNodePromptState">
+    <option name="lastPromptTime" value="1778694415547" />
+  </component>
   <component name="toolkit">
     <option name="QMigrationNotificationShownOnce" value="true" />
     <option name="autoUpdateFeatureNotificationShownOnce" value="true" />
