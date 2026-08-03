@@ -1,4 +1,14 @@
 <application>
+  <component name="CopilotReasoningEfforts">
+    <option name="entries">
+      <modelEffort>
+        <option name="agentProvider" value="LOCAL" />
+        <option name="effort" value="minimal" />
+        <option name="modelType" value="builtin_id" />
+        <option name="modelValue" value="gemini-3.5-flash" />
+      </modelEffort>
+    </option>
+  </component>
   <component name="github-copilot">
     <option name="signinNotificationShown" value="true" />
     <option name="enableNextEditSuggestions" value="true" />
