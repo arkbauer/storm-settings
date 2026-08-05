@@ -21,8 +21,32 @@
     </languageAllowList>
     <option name="inlayTextColor" value="#d77100" />
     <option name="selectedCompletionModel" value="gpt-41-copilot" />
+    <option name="autoApproveUnmatchedTerminal" value="false" />
     <option name="terminalRulesVersion" value="1" />
+    <editAutoApprove>
+      <FileSafetyRule>
+        <option name="description" value="Github instructions files" />
+        <option name="pattern" value="**/.github/instructions/*" />
+      </FileSafetyRule>
+      <FileSafetyRule>
+        <option name="description" value="JetBrains settings files" />
+        <option name="pattern" value="**/.idea/**/*" />
+      </FileSafetyRule>
+      <FileSafetyRule>
+        <option name="description" value="Github Copilot settings and token files" />
+        <option name="pattern" value="**/github-copilot/**/*" />
+      </FileSafetyRule>
+    </editAutoApprove>
+    <instructionFileLocations>
+      <map>
+        <entry key=".github/instructions" value="true" />
+        <entry key=".junie" value="true" />
+        <entry key="~/.copilot/instructions" value="true" />
+      </map>
+    </instructionFileLocations>
     <option name="legacyXdgConfigMigrated" value="true" />
     <option name="defaultMarketplacesSeeded" value="true" />
+    <option name="enableClaudeCli" value="false" />
+    <option name="enableTelemetry" value="false" />
   </component>
 </application>
