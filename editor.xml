@@ -1,6 +1,21 @@
 <application>
+  <component name="CodeVisionSettings">
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="inheritors" />
+        <option value="references" />
+        <option value="vcs.code.vision" />
+      </set>
+    </option>
+    <option name="enabled" value="false" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="AUTOREPARSE_DELAY" value="1500" />
+  </component>
   <component name="EditorSettings">
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="SHOW_INSPECTION_WIDGET" value="false" />
+    <option name="SHOW_INSPECTION_WIDGET_ICON" value="false" />
     <option name="SHOW_STICKY_LINES" value="false" />
   </component>
   <component name="InlayHintsSettings">
