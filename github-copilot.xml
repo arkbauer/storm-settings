@@ -1,19 +1,6 @@
 <application>
-  <component name="CopilotReasoningEfforts">
-    <option name="entries">
-      <modelEffort>
-        <option name="agentProvider" value="LOCAL" />
-        <option name="effort" value="minimal" />
-        <option name="modelType" value="builtin_id" />
-        <option name="modelValue" value="gemini-3.5-flash" />
-      </modelEffort>
-    </option>
-  </component>
   <component name="github-copilot">
     <option name="signinNotificationShown" value="true" />
-    <option name="enableNextEditSuggestions" value="true" />
-    <option name="nesDefaultAppliedForFreePlan" value="true" />
-    <option name="nesDefaultAppliedForCopilotNesExp" value="true" />
     <languageAllowList>
       <map>
         <entry key="*" value="true" />
@@ -21,32 +8,6 @@
     </languageAllowList>
     <option name="inlayTextColor" value="#d77100" />
     <option name="selectedCompletionModel" value="gpt-41-copilot" />
-    <option name="autoApproveUnmatchedTerminal" value="false" />
     <option name="terminalRulesVersion" value="1" />
-    <editAutoApprove>
-      <FileSafetyRule>
-        <option name="description" value="Github instructions files" />
-        <option name="pattern" value="**/.github/instructions/*" />
-      </FileSafetyRule>
-      <FileSafetyRule>
-        <option name="description" value="JetBrains settings files" />
-        <option name="pattern" value="**/.idea/**/*" />
-      </FileSafetyRule>
-      <FileSafetyRule>
-        <option name="description" value="Github Copilot settings and token files" />
-        <option name="pattern" value="**/github-copilot/**/*" />
-      </FileSafetyRule>
-    </editAutoApprove>
-    <instructionFileLocations>
-      <map>
-        <entry key=".github/instructions" value="true" />
-        <entry key=".junie" value="true" />
-        <entry key="~/.copilot/instructions" value="true" />
-      </map>
-    </instructionFileLocations>
-    <option name="legacyXdgConfigMigrated" value="true" />
-    <option name="defaultMarketplacesSeeded" value="true" />
-    <option name="enableClaudeCli" value="false" />
-    <option name="enableTelemetry" value="false" />
   </component>
 </application>
