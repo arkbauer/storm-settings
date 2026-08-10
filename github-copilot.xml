@@ -30,6 +30,7 @@
         <entry key="~/.copilot/instructions" value="true" />
       </map>
     </instructionFileLocations>
+    <option name="legacyXdgConfigMigrated" value="true" />
     <option name="defaultMarketplacesSeeded" value="true" />
   </component>
 </application>
