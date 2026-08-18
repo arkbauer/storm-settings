@@ -3,7 +3,6 @@
     <option name="signinNotificationShown" value="true" />
     <option name="enableNextEditSuggestions" value="true" />
     <option name="nesDefaultAppliedForFreePlan" value="true" />
-    <option name="nesDefaultAppliedForCopilotNesExp" value="true" />
     <languageAllowList>
       <map>
         <entry key="*" value="true" />
@@ -12,25 +11,5 @@
     <option name="inlayTextColor" value="#d77100" />
     <option name="selectedCompletionModel" value="gpt-41-copilot" />
     <option name="terminalRulesVersion" value="1" />
-    <skillFileLocations>
-      <map>
-        <entry key=".agents/skills" value="true" />
-        <entry key=".claude/skills" value="true" />
-        <entry key=".github/skills" value="true" />
-        <entry key=".junie/skills" value="true" />
-        <entry key="~/.agents/skills" value="true" />
-        <entry key="~/.claude/skills" value="true" />
-        <entry key="~/.copilot/skills" value="true" />
-      </map>
-    </skillFileLocations>
-    <instructionFileLocations>
-      <map>
-        <entry key=".github/instructions" value="true" />
-        <entry key=".junie" value="true" />
-        <entry key="~/.copilot/instructions" value="true" />
-      </map>
-    </instructionFileLocations>
-    <option name="legacyXdgConfigMigrated" value="true" />
-    <option name="defaultMarketplacesSeeded" value="true" />
   </component>
 </application>
