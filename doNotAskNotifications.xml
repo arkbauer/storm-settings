@@ -1,0 +1,9 @@
+<application>
+  <component name="DoNotAskAppManager">
+    <option name="idToDisplayName">
+      <map>
+        <entry key="WindowsDefender" value="Microsoft Defender configuration" />
+      </map>
+    </option>
+  </component>
+</application>
