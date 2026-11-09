@@ -23,7 +23,9 @@
         <entry key="del" value="false" />
         <entry key="erase" value="false" />
         <entry key="eval" value="false" />
+        <entry key="grep" value="true" />
         <entry key="kill" value="false" />
+        <entry key="ls" value="true" />
         <entry key="rd" value="false" />
         <entry key="ri" value="false" />
         <entry key="rm" value="false" />
