@@ -11,6 +11,27 @@
     </languageAllowList>
     <option name="inlayTextColor" value="#d77100" />
     <option name="terminalRulesVersion" value="2" />
+    <terminalAutoApprove>
+      <map>
+        <entry key="/^Remove-Item\b/i" value="false" />
+        <entry key="/^find\b.*-(delete|exec|execdir|fprint|fprintf|fls|ok|okdir)\b/" value="false" />
+        <entry key="/^sort\b.*-(o|S)\b/" value="false" />
+        <entry key="/^tree\b.*-o\b/" value="false" />
+        <entry key="chmod" value="false" />
+        <entry key="chown" value="false" />
+        <entry key="curl" value="false" />
+        <entry key="del" value="false" />
+        <entry key="erase" value="false" />
+        <entry key="eval" value="false" />
+        <entry key="kill" value="false" />
+        <entry key="rd" value="false" />
+        <entry key="ri" value="false" />
+        <entry key="rm" value="false" />
+        <entry key="rmdir" value="false" />
+        <entry key="wget" value="false" />
+        <entry key="wsl" value="true" />
+      </map>
+    </terminalAutoApprove>
     <option name="legacyXdgConfigMigrated" value="true" />
   </component>
 </application>
