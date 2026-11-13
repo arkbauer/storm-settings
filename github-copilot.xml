@@ -35,5 +35,6 @@
       </map>
     </terminalAutoApprove>
     <option name="legacyXdgConfigMigrated" value="true" />
+    <option name="defaultMarketplacesSeeded" value="true" />
   </component>
 </application>
